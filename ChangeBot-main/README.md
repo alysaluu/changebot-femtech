@@ -12,4 +12,4 @@ on the rise, there is a great need for a tool that amplifies people’s voices t
 We want people to feel politically well-informed and empowered, and we think Kratos, which is Greek for “power,” will help them do so. 
 
 # Video WalkThrough
-![](/Animation.gif)
+![](Logos/Animation.gif)
