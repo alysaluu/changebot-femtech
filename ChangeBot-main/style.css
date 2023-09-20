@@ -1,0 +1,12 @@
+.sendCodeButton {
+    color:#fff;
+    background-color: #ec2c22;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 5px;
+    font-size: 1 rem;
+    line-height: 1.5;
+    font-weight: bold;
+}
